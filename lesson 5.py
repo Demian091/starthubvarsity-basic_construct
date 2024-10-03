@@ -8,3 +8,4 @@ mul = num_1 * num_2 * num_3
 print (adding )
 # result for multiplication
 print (mul)
+ 
