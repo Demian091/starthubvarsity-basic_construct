@@ -6,6 +6,6 @@ adding = num_1 + num_2 + num_3
 mul = num_1 * num_2 * num_3
 # result for addition = 10
 print (adding )
-# result for multiplication
+# result for multiplication 36
 print (mul)
  

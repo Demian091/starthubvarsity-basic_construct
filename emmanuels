@@ -1,0 +1,6 @@
+def funct(param1, param2):
+    var_1 = 2
+    sum = var_1 + param1
+
+    if param1 == var_1 and var_1 > param2 and sum > param2:
+    print('param1 )
